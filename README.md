@@ -1,1 +1,1 @@
-Example of page object
+Example of PAGE OBJECT
